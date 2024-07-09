@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjV3eROjI0jwev9zKYdF9722MD9Wwic+aEO270fIhz7ZHM0dFl8UPve9620SaqtZuFmKgcsmVIBHwVULw/z5kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\image grab\\image grab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

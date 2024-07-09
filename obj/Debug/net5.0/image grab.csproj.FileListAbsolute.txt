@@ -1,0 +1,25 @@
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\image grab.exe
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\image grab.deps.json
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\image grab.runtimeconfig.json
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\image grab.runtimeconfig.dev.json
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\image grab.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\ref\image grab.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\image grab.pdb
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\GetRequestNETStandart.dll
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.csprojAssemblyReference.cache
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.AssemblyInfo.cs
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.csproj.CopyComplete
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.dll
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\ref\image grab.dll
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.pdb
+C:\Users\user\Desktop\image grab\obj\Debug\net5.0\image grab.genruntimeconfig.cache
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\image grab\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
